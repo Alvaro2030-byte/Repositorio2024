@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.element {
+    transition: all 0.3s ease-in-out;
+}
+.element:hover {
+    background-color: #f0f0f0;
+}
+body {
+    background-color: rgb(170, 199, 170); /* Color verde claro */
+}
